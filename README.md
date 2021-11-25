@@ -9,4 +9,4 @@ Online Quiz is a web application for candidate to appear for an
  
   Website-link: https://quizapp21.000webhostapp.com/
   
-  https://mail.google.com/mail/u/0/#inbox/FMfcgzGllCgpNpwPPxxzwqtsQKXHfXGZ?projector=1
+  https://drive.google.com/file/d/1XZyOcWB6KDeNsnE6foGxsm6Itx5vApV-/view?usp=sharing
